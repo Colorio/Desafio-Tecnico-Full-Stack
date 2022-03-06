@@ -26,6 +26,7 @@ Route::namespace('\App\Http\Controllers\Api')->group(function(){
     Route::resource('products', 'ProductsController')->only(["index","show","store","update","destroy"]);
     Route::post('inventoryMaintenance', "InventoryController@maintenance");
     Route::post('setInventoryAmount', "InventoryController@setAmount");
+    Route::get('inventoryHistory/{sku}', "InventoryController@history");
 
     Route::any('{path}', function() {
 	    return response()->json(["status" => 'error', "errors" => ['404: ENDPOINT inválido. Verique os dados ou entre em contato (11) 12345-6789']], 404);
