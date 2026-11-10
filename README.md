@@ -1,5 +1,3 @@
-<p align="center"><a href="https://appmax.com.br" target="_blank"><img src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/229240497_1910433002463370_3980053956259028089_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeH9ppgGX4ySIjTgfyVbzlh4_Ag4VtQHqxr8CDhW1AerGrSVqeJjmOIqXIAvuZC4jbtdnDVq58Ljjr8h5BePeQJs&_nc_ohc=qC3SGW7AQr8AX-HFycG&_nc_ht=scontent-gru2-2.xx&oh=00_AT_nSpP_gngErdHKIEpwRBCv3LP_lhtQ0aChI0T3ZCiiTg&oe=62296A03" width="200"></a></p>
-
 # Desafio Técnico Full-stack
 
 Projeto desenvolvido para o processo seletivo da Appmax.
